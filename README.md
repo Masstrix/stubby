@@ -1,2 +1,5 @@
-# stubby
- Trys to generate stub .pyi files.
+# Stubby
+A little utility to help try and generate stub files.
+
+
+
